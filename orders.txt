@@ -1,0 +1,5 @@
+kumar,Fanta,1,3.0
+kumar,Pepsi,1,1.8
+arwin,Fanta,1,3.0
+arwin,Coke,1,2.0
+arwin,Fanta,1,3.0
